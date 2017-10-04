@@ -1,0 +1,150 @@
+
+Benutzerhandbuch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inhaltsverzeichnis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Worms
+Version 1.0
+Erstelldatum 10. Juli 2014.
+Autor Team102
+
+Das Programm wurde als Aufgabe für das Programmierpraktium erstellt. Es ist im Prinzip das gleiche Spiel aus dem Jahr 1997, indem es das Ziel ist, die Würmer des Gegners zu töten.
+
+Systemvoraussetzungen für das Spiel
+
+Das Spiel ist am Computer spielbar und für erfolgreiches Abspielen ist nur Java 7 oder höher nötig.
+Das Spiel muss nicht installiert werden und kann einfach durch Worms.jar  gestartet werden.
+
+
+
+Systemanforderungen von Java 7:
+
+Windows
+Windows 8 (Desktop)
+Windows 7
+Windows Vista SP2
+Windows Server 2008
+Windows Server 2012 (64-Bit)
+RAM: 128 MB; 64 MB für Windows XP (32-Bit)
+Speicherplatz: 124 MB
+Browser: Internet Explorer 7.0 und höher, Firefox 3.6 und höher, Chrome
+
+Mac OS X
+Intel-basierter Mac unter Mac OS X 10.7.3 (Lion) oder höher.
+Administratorberechtigungen für die Installation
+64-Bit-Browser
+Ein 64-Bit-Browser (z.B. Safari oder Firefox) ist zur Ausführung von Java 7 auf Mac OS X erforderlich. 32-Bit-Browser, wie Chrome, unterstützen Java 7 auf der Mac-Plattform nicht.
+
+Linux
+Oracle Linux 5.5+
+Oracle Linux 6.x (32 Bit), 6.x (64 Bit)*
+Red Hat Enterprise Linux 5.5+, 6.x (32 Bit), 6.x (64 Bit)*
+Ubuntu Linux 10.04 und höher
+Suse Linux Enterprise Server 10 SP2, 11.x
+Browser: Firefox 3.6 und höher
+ *Nur 64-Bit-JVM ist zertifiziert.
+
+
+
+Neue Versionen von Java sind in dem Folgendem Link freigegeben:
+https://www.java.com/en/download/
+
+
+
+Optionen
+
+Das Spiel besitzt zwei Teams im Offlinespiel. Die Namen von diesen Teams können in Option eingegeben werden. Falls dies nicht gemacht ist, werden die Namen von Teams als Player 1 und Player 2 bezeichnet.
+
+Für das Onlinespiel muss ein Name in Options für Player 1 eingeben werden, da Player 2 dafür keine Rolle spielt. 
+
+Es gibt drei bestimmte Levels zwischen denen der Spieler sich entscheiden kann. Zusätzlich kann auch ein Generate Level ausgewählt werden, in dem ein Level automatisch generiert wird und immer unterschiedlich aussieht.
+
+Um eine bessere Differenzierung zwischen Teams zu ermöglichen, stehen zwei verschiedene Themen zur Verfügung und 3 verschiedene Farben für die Infoleiste des Spielstandes.
+
+Spielen
+
+Für Spielen braucht man eine Tastatur und eine Maus.
+
+Bei einem Mausklick werden verschiedene Waffen geschossen in die Zeiger Richtung. Die Flugweite hängt von der Dauer des Mausklicks nicht ab.   Insgesamt gibt es im Spiel drei Waffentypen: Granate, Bazooka und Pistole. Der Waffenwechsel folgt durch das s oder Pfeil runter auf der Tastatur drücken.
+
+Die Würmer bewegen sich mit a,w,d bzw. Pfeil links, oben, rechts.
+
+Ein Turn dauert 20 Sekunden oder bis das erste Mal geschossen wurde. Maximal zwei Mal ist es möglich in einem Turn zu schiessen, wobei nach erstem Schuss bleiben nur 2 Sekunden übrig für den zweiten.
+
+Lobby von Onlinespiel
+
+In der Lobby können alle Spieler mit einander schreiben. Nachrichten werden mit Enter verschickt.
+
+Jeder Spieler muss sich für ein Team entscheiden. Erst wenn alle Teams Spieler haben, kann das Spiel mit dem Startknopf gestartet werden.
+
+Alle Spieler sind in der Players-Box angezeigt und die Aufteilung zwischen den Mannschaften ist jeweils in Team1-Box oder Team2-Box zu sehen.
+
+
