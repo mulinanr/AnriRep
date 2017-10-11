@@ -1,0 +1,3 @@
+all:
+	gcc -o server server.c sock_setup.c -lpthread
+	gcc -o client client.c var.c sock_setup.c signal_handler.c -lpthread
